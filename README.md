@@ -3,15 +3,11 @@
 - Interested in composing, rhythm games, and mod development.
 - I don't have much knowledge about coding. I plan to learn step by step..!
 
-<div align="left">
-  
-![discord](https://discord-profile-starcea.paring.moe/discord/687668618691084295)
-![spotify](https://discord-profile-starcea.paring.moe/spotify/687668618691084295?redirect=true?album=true)
+<div align="center">
 
-<div align="left">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![discord](https://discord-profile-starcea.paring.moe/discord/687668618691084295)
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![banner](https://github.com/MipaNyang/MipaNyang/blob/main/banner.png?raw=true)
